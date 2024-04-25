@@ -1,18 +1,19 @@
 # Noita Spells as 7tv Emotes
+
 Clear visual indication of wand builds as suggested by your viewers using Noita spells as 7tv emotes (`128x128 px`).
 
-| # | id | Uploader | Emote | Image |
-| :--- | :--- | :--- | :--- | :--- |
-| 1. |  `640124a2a27fda24e8075466` | [WUOTE](https://7tv.app/users/623194c5b88633b42c0c0556) | [1WAND](https://7tv.app/emotes/640124a2a27fda24e8075466) | ![](https://cdn.7tv.app/emote/640124a2a27fda24e8075466/1x.webp) |
-| 2. |  `640124a307f3fbaef1526067` | [WUOTE](https://7tv.app/users/623194c5b88633b42c0c0556) | [2WAND](https://7tv.app/emotes/640124a307f3fbaef1526067) | ![](https://cdn.7tv.app/emote/640124a307f3fbaef1526067/1x.webp) |
-| 3. |  `640124a549184efad4d9bf73` | [WUOTE](https://7tv.app/users/623194c5b88633b42c0c0556) | [3WAND](https://7tv.app/emotes/640124a549184efad4d9bf73) | ![](https://cdn.7tv.app/emote/640124a549184efad4d9bf73/1x.webp) |
-| 4. |  `6401251317478c0c59fd1a9e` | [WUOTE](https://7tv.app/users/623194c5b88633b42c0c0556) | [4WAND](https://7tv.app/emotes/6401251317478c0c59fd1a9e) | ![](https://cdn.7tv.app/emote/6401251317478c0c59fd1a9e/1x.webp) |
-| 5. |  `64012c03f2915b442ca97a77` | [WUOTE](https://7tv.app/users/623194c5b88633b42c0c0556) | [ACCELERATINGSHOT](https://7tv.app/emotes/64012c03f2915b442ca97a77) | ![](https://cdn.7tv.app/emote/64012c03f2915b442ca97a77/1x.webp) |
-| 6. |  `6402ab610977db85fa3a2e0c` | [WUOTE](https://7tv.app/users/623194c5b88633b42c0c0556) | [ACCELERATIVEHOMING](https://7tv.app/emotes/6402ab610977db85fa3a2e0c) | ![](https://cdn.7tv.app/emote/6402ab610977db85fa3a2e0c/1x.webp) |
-| 7. |  `640361c6cb4fca4bfe6da91b` | [ZaximusRex](https://7tv.app/users/6403618059f51b6e1a7e6ade) | [ACID](https://7tv.app/emotes/640361c6cb4fca4bfe6da91b) | ![](https://cdn.7tv.app/emote/640361c6cb4fca4bfe6da91b/1x.webp) |
-| 8. |  `64012c0607f3fbaef1526110` | [WUOTE](https://7tv.app/users/623194c5b88633b42c0c0556) | [ACIDBALL](https://7tv.app/emotes/64012c0607f3fbaef1526110) | ![](https://cdn.7tv.app/emote/64012c0607f3fbaef1526110/1x.webp) |
-| 9. |  `6401f2cdf20c15fd1676f40b` | [pood707](https://7tv.app/users/6326aab0e6defda92400247c) | [ACIDCLOUD](https://7tv.app/emotes/6401f2cdf20c15fd1676f40b) | ![](https://cdn.7tv.app/emote/6401f2cdf20c15fd1676f40b/1x.webp) |
-| 10. |  `64012c05df157664ba971bce` | [WUOTE](https://7tv.app/users/623194c5b88633b42c0c0556) | [ACIDTRAIL](https://7tv.app/emotes/64012c05df157664ba971bce) | ![](https://cdn.7tv.app/emote/64012c05df157664ba971bce/1x.webp) |
+| #   | id                         | Uploader                                                     | Emote                                                                 | Image                                                           |
+| :-- | :------------------------- | :----------------------------------------------------------- | :-------------------------------------------------------------------- | :-------------------------------------------------------------- |
+| 1.  | `640124a2a27fda24e8075466` | [WUOTE](https://7tv.app/users/623194c5b88633b42c0c0556)      | [1WAND](https://7tv.app/emotes/640124a2a27fda24e8075466)              | ![](https://cdn.7tv.app/emote/640124a2a27fda24e8075466/1x.webp) |
+| 2.  | `640124a307f3fbaef1526067` | [WUOTE](https://7tv.app/users/623194c5b88633b42c0c0556)      | [2WAND](https://7tv.app/emotes/640124a307f3fbaef1526067)              | ![](https://cdn.7tv.app/emote/640124a307f3fbaef1526067/1x.webp) |
+| 3.  | `640124a549184efad4d9bf73` | [WUOTE](https://7tv.app/users/623194c5b88633b42c0c0556)      | [3WAND](https://7tv.app/emotes/640124a549184efad4d9bf73)              | ![](https://cdn.7tv.app/emote/640124a549184efad4d9bf73/1x.webp) |
+| 4.  | `6401251317478c0c59fd1a9e` | [WUOTE](https://7tv.app/users/623194c5b88633b42c0c0556)      | [4WAND](https://7tv.app/emotes/6401251317478c0c59fd1a9e)              | ![](https://cdn.7tv.app/emote/6401251317478c0c59fd1a9e/1x.webp) |
+| 5.  | `64012c03f2915b442ca97a77` | [WUOTE](https://7tv.app/users/623194c5b88633b42c0c0556)      | [ACCELERATINGSHOT](https://7tv.app/emotes/64012c03f2915b442ca97a77)   | ![](https://cdn.7tv.app/emote/64012c03f2915b442ca97a77/1x.webp) |
+| 6.  | `6402ab610977db85fa3a2e0c` | [WUOTE](https://7tv.app/users/623194c5b88633b42c0c0556)      | [ACCELERATIVEHOMING](https://7tv.app/emotes/6402ab610977db85fa3a2e0c) | ![](https://cdn.7tv.app/emote/6402ab610977db85fa3a2e0c/1x.webp) |
+| 7.  | `640361c6cb4fca4bfe6da91b` | [ZaximusRex](https://7tv.app/users/6403618059f51b6e1a7e6ade) | [ACID](https://7tv.app/emotes/640361c6cb4fca4bfe6da91b)               | ![](https://cdn.7tv.app/emote/640361c6cb4fca4bfe6da91b/1x.webp) |
+| 8.  | `64012c0607f3fbaef1526110` | [WUOTE](https://7tv.app/users/623194c5b88633b42c0c0556)      | [ACIDBALL](https://7tv.app/emotes/64012c0607f3fbaef1526110)           | ![](https://cdn.7tv.app/emote/64012c0607f3fbaef1526110/1x.webp) |
+| 9.  | `6401f2cdf20c15fd1676f40b` | [pood707](https://7tv.app/users/6326aab0e6defda92400247c)    | [ACIDCLOUD](https://7tv.app/emotes/6401f2cdf20c15fd1676f40b)          | ![](https://cdn.7tv.app/emote/6401f2cdf20c15fd1676f40b/1x.webp) |
+| 10. | `64012c05df157664ba971bce` | [WUOTE](https://7tv.app/users/623194c5b88633b42c0c0556)      | [ACIDTRAIL](https://7tv.app/emotes/64012c05df157664ba971bce)          | ![](https://cdn.7tv.app/emote/64012c05df157664ba971bce/1x.webp) |
 
 <details><summary>Click To Show The Rest of the Emotes</summary>
   
@@ -436,3 +437,17 @@ Clear visual indication of wand builds as suggested by your viewers using Noita 
 | 426. |  `6402f00aa283055403bd600e` | [PlaceboEU](https://7tv.app/users/64020066face0f3bbeac28a7) | [ZETA](https://7tv.app/emotes/6402f00aa283055403bd600e) | ![](https://cdn.7tv.app/emote/6402f00aa283055403bd600e/1x.webp) |
 
 </details>
+
+## Uploading emotes
+
+Upload emotes using the [bash script](upload_emote.sh)
+
+```bash
+ curl 'https://7tv.io/v3/emotes' \
+  -H 'authorization: Bearer REPLACE_WITH_YOUR_BEARER_FROM_BROWSER_CONSOLE' \
+  -H 'content-type: image/png' \
+  -H 'x-emote-data: {"name":"REPLACE_WITH_FILE_NAME","flags":0,"tags":[]}' \
+  --data-binary "@/PATH_TO_EMOTE_FILE/REPLACE_WITH_FILE_NAME.png" \
+  --compressed
+wait 5s
+```
