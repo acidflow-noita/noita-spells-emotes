@@ -15,7 +15,9 @@ Clear visual indication of wand builds as suggested by your viewers using Noita 
 | 9.  | `6401f2cdf20c15fd1676f40b` | [pood707](https://7tv.app/users/6326aab0e6defda92400247c)    | [ACIDCLOUD](https://7tv.app/emotes/6401f2cdf20c15fd1676f40b)          | ![](https://cdn.7tv.app/emote/6401f2cdf20c15fd1676f40b/1x.webp) |
 | 10. | `64012c05df157664ba971bce` | [WUOTE](https://7tv.app/users/623194c5b88633b42c0c0556)      | [ACIDTRAIL](https://7tv.app/emotes/64012c05df157664ba971bce)          | ![](https://cdn.7tv.app/emote/64012c05df157664ba971bce/1x.webp) |
 
-<details><summary>Click To Show The Rest of the Emotes</summary>
+<br>
+
+<details><summary>Click To View The Rest of the Emotes</summary>
   
 | # | id | Uploader | Emote | Image |
 | :--- | :--- | :--- | :--- | :--- |
